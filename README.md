@@ -1,20 +1,20 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://github.com/SyarifulMsth/README.md/blob/main/assets/banner.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=2000&height=140&lines=Hello there!;I'm+Syariful+Musthofa%2C+a+data+analyst+and+machine+learning+engineer." width="70%" />
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    🌱 I’m currently specializing and learning about data analysis & machine learning.
     💻 System programming languages • DevOps 
     📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+
+If - for whatever strange reason - you ever want to talk to me, just use the following:
+<br><br>
+[![](https://img.shields.io/badge/Linkedin-118ab2)]([http://linkedin.com/in/ingridrosselis](https://www.linkedin.com/in/syariful-musthofa/))
+[![](https://img.shields.io/badge/Website-06d6a0)](https://syarifulmsth.github.io/)
+[![](https://img.shields.io/badge/Instagram-ffd166)](https://www.instagram.com/syariful_msth/)
+[![](https://img.shields.io/badge/Email-ef476f)](mailto:syarifulm007@gmail.com)
 </div>
