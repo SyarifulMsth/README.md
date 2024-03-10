@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/SyarifulMsth/README.md/blob/main/assets/banner.jpg" width="23%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1800&height=140&lines=Hello there!;I'm+Syariful+Musthofa%2C+a+data+analyst+and+machine+learning+engineer." width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1900&height=140&lines=Hello there!;I'm+Syariful+Musthofa%2C+a+data+analyst+and+machine+learning+engineer." width="70%" />
 <br><br>
     💼 Looking for opportunities to grow. <br>
     🌱 I’m currently specializing and learning about data analysis & machine learning.<br>
