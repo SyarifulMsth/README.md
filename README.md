@@ -5,7 +5,7 @@
 <br><br>
     💼 Looking for opportunities to grow. <br>
     🌱 I’m currently specializing and learning about data analysis & machine learning.<br>
-    ⚔️ Python • Tensorflow • SQL Query • Tableau • Big Query • Power BI • Hadoop • Kafka. <br>
+    ⚔️ Python • Tensorflow • SQL Query • Tableau • Big Query • Excel • Power BI • Hadoop • Kafka. <br>
 <!--     ⚔️ DDDM • CRISP-DM • SMART Question • Analytical Skills & Thinking • Modelling • etc. <br> -->
     ❓ Data! Data! Data! I can’t make bricks without clay. <br><br><br>
     💬 If - for whatever strange reason - you ever want to talk to me, just use the following: <br><br>
